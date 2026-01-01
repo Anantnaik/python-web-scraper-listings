@@ -6,7 +6,7 @@ venv/
 __pycache__/
 *.pyc
 
-# OS files
-.DS_Store
-Thumbs.db
+# LibreOffice / Excel lock files
+.~lock.*
+
 
